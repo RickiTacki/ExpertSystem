@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: expert
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: дом
+Implementation-Vendor-Id: com.app
+Created-By: IntelliJ IDEA
+Build-Jdk: 12.0.1
+Main-Class: ${start-class}
+
